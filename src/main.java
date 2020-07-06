@@ -326,9 +326,6 @@ public class main {
 		}
 	}
 
-	private static boolean isEmpty(int i) {
-		// TODO Auto-generated method stub
-		return false;
-	}
+	
 
 }
